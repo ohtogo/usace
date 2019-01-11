@@ -5,7 +5,8 @@ applicant: "Lee County, c/o Ehab Guirguis, P.E., 1500 Monroe Street, 4th Floor, 
 post_date: 2019-01-10
 expiration_date: 2019-02-10
 description: "To provide shoreline stabilization and improved stormwater management on Sanibel Causeway Island B, Lee County, Florida"
-attachments: ["https://usace.contentdm.oclc.org/utils/getfile/collection/p16021coll7/id/9133",]
+attachments:
+  - https://usace.contentdm.oclc.org/utils/getfile/collection/p16021coll7/id/9133
 body: "TO WHOM IT MAY CONCERN: The Jacksonville District of the U.S. Army Corps of Engineers (Corps) has received an application for a Department of the Army permit pursuant to Section 404 of the Clean Water Act (33 U.S.C. §1344) and Section 10 of the Rivers and Harbors Act of 1899 (33 U.S.C. §403) as described below:
 
 APPLICANT: Lee County, c/o Ehab Guirguis, P.E., 1500 Monroe Street, 4th Floor, Fort Myers, FL  33901
